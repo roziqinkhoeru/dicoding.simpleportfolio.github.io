@@ -1,22 +1,19 @@
+# Project Simple Portfolio Website
 
-# Project Simple Calc
-
-Simple web calculator. Made to be able to perform addition, subtraction, multiplication, and division operations only.
-Can only accept input 2 numbers, both integers and decimals.
-This program was created using **HTML (Hypertext Markup Language)**, **CSS (Cascading Style Sheet)** and **PHP (Hypertext Preprocessor)**.
+Simple web portfolio contains a minimalist website with homepage content, about, projects, and contacts.
+This program was created using **HTML (Hypertext Markup Language)**, **CSS (Cascading Style Sheet)** and **JS (JavaScript)**.
 
 ## Badges
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
   
 ## Requirements
 
-- XAMPP : PHP >= 8.0.7
 - Browser
-- Sublime Text Build 4107
+- Sublime Text Build 4113
 
 ## Features
 
@@ -25,19 +22,45 @@ This program was created using **HTML (Hypertext Markup Language)**, **CSS (Casc
 ## Directory Structure
 
 ```
-📦Tugas6_KhoeruRoziqin
+📦simple-portfolio-website
  ┣ 📂assets
- ┃ ┣ 📜Tugas6_KhoeruRoziqin.css
- ┗ 📜Tugas6_KhoeruRoziqin.php
+ ┃ ┣ 📂images
+ ┃ ┃ ┣ 📜adobe-illustrator.svg
+ ┃ ┃ ┣ 📜anforcom-feed.png
+ ┃ ┃ ┣ 📜css.svg
+ ┃ ┃ ┣ 📜D5391C07.png
+ ┃ ┃ ┣ 📜favicon-khoeru.svg
+ ┃ ┃ ┣ 📜figma.svg
+ ┃ ┃ ┣ 📜HMTL-Web.png
+ ┃ ┃ ┣ 📜html.svg
+ ┃ ┃ ┣ 📜instagram.svg
+ ┃ ┃ ┣ 📜javascript.svg
+ ┃ ┃ ┣ 📜jumbotron-khoeru.svg
+ ┃ ┃ ┣ 📜jumbotron-khoeru-creative.svg
+ ┃ ┃ ┣ 📜linkedin.svg
+ ┃ ┃ ┣ 📜logo-foot-khoeru.svg
+ ┃ ┃ ┣ 📜logo-nav-khoeru.svg
+ ┃ ┃ ┣ 📜menu-icon.svg
+ ┃ ┃ ┣ 📜PPPC.png
+ ┃ ┃ ┣ 📜whatsapp.svg
+ ┃ ┃ ┣ 📜wht-facebook.svg
+ ┃ ┃ ┣ 📜wht-instagram.svg
+ ┃ ┃ ┣ 📜wht-linkedin.svg
+ ┃ ┃ ┣ 📜wht-whatsapp.svg
+ ┃ ┃ ┗ 📜winner-video.png
+ ┃ ┣ 📂styles
+ ┃ ┃ ┣ 📂img
+ ┃ ┃ ┃ ┣ 📜DC6271D0.png
+ ┃ ┃ ┃ ┗ 📜khoeru-bio.svg
+ ┃ ┃ ┗ 📜style.css
+ ┃ ┗ 📜main.js
+ ┗ 📜index.html
 ```
 
 # Usage
 
-1. Letakan folder **Tugas6_KhoeruRoziqin** ke dalam 
-    > *C:\xampp\htdocs*  (Windows).
-2. Jalankan *XAMPP -> Apache-> Start*.
-3. Buka Browser ketikan 
-    > *localhost/Tugas6/Tugas6_KhoeruRoziqin.php*.
+1. Letakan folder **simple-portfolio-website** ke dalam direktori anda (Windows).
+2. Jalankan / buka file index.html di browser.
 
 ## Screenshots
 
@@ -49,7 +72,7 @@ This program was created using **HTML (Hypertext Markup Language)**, **CSS (Casc
 
 ## Authors
 
-- Khoeru Roziqin [12/07/2021]
+- Khoeru Roziqin [28/07/2021]
 
 ## Contact and Social Media
 - ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) [roziqinkhoeru](https://github.com/roziqinkhoeru)
