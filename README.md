@@ -62,6 +62,13 @@ This program was created using **HTML (Hypertext Markup Language)**, **CSS (Casc
 1. Letakan folder **simple-portfolio-website** ke dalam direktori anda (Windows).
 2. Jalankan / buka file index.html di browser.
 
+## Screenshots
+
+- Dekstop
+![Dekstop Screenshot]()
+
+- Mobile
+
 ## Authors
 
 - Khoeru Roziqin [28/07/2021]
