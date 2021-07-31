@@ -65,7 +65,7 @@ This program was created using **HTML (Hypertext Markup Language)**, **CSS (Casc
 ## Screenshots
 
 - Dekstop
-![Dekstop Screenshot](Dekstop-view-Simple Portfolio.png)
+![Dekstop Screenshot](https://github.com/roziqinkhoeru/simple-portfolio-website/blob/bf00c73cced3345500f982abf890339ea17a877d/Dekstop-view-Simple%20Portfolio.png)
 
 - Mobile
 
