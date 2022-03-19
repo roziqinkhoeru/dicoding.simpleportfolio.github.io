@@ -1,6 +1,6 @@
 <br/>
 <div align="center">  
-  <p><img src="https://raw.githubusercontent.com/roziqinkhoeru/lsp-digital-clone/main/assets/image/logo-lsp.png" width=240/></p>
+  <p><img src="https://raw.githubusercontent.com/roziqinkhoeru/simple-portfolio-website/main/assets/images/logo-foot-khoeru%201.png" width=240/></p>
   <p><strong>Dicoding Task</strong> Simple Portfolio Website</p>
 </div>
 <br/>
@@ -24,6 +24,8 @@ This program was created using **HTML (Hypertext Markup Language)**, **CSS (Casc
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## ⚙ Requirements
 
