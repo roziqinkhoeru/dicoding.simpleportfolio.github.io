@@ -1,7 +1,22 @@
+<br/>
+<div align="center">  
+  <p><img src="https://raw.githubusercontent.com/roziqinkhoeru/lsp-digital-clone/main/assets/image/logo-lsp.png" width=240/></p>
+  <p><strong>Dicoding Task</strong> Simple Portfolio Website</p>
+</div>
+<br/>
+
 # 👨‍💻 Project Simple Portfolio Website
 
 Simple web portfolio contains a minimalist website with homepage content, about, projects, and contacts.
 This program was created using **HTML (Hypertext Markup Language)**, **CSS (Cascading Style Sheet)** and **JS (JavaScript)**.
+
+## 🛠 Tools / Library Used
+
+- **HTML (Hypertext Markup Language)**
+- **CSS (Cascading Style Sheet)**
+- **JS (Javascript)**
+- **Visual Studio Code / Sublime Text 4**
+- **Git**
 
 ## 📛 Badges
 
@@ -13,7 +28,8 @@ This program was created using **HTML (Hypertext Markup Language)**, **CSS (Casc
 ## ⚙ Requirements
 
 - Browser
-- Sublime Text Build 4113
+- Internet
+- Sublime Text Build 4113 / Visual Studi Code
 
 ## 💡 Features
 
