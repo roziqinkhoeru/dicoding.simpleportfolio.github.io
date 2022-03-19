@@ -1,79 +1,53 @@
-# Project Simple Portfolio Website
+# 👨‍💻 Project Simple Portfolio Website
 
 Simple web portfolio contains a minimalist website with homepage content, about, projects, and contacts.
 This program was created using **HTML (Hypertext Markup Language)**, **CSS (Cascading Style Sheet)** and **JS (JavaScript)**.
 
-## Badges
+## 📛 Badges
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-  
-## Requirements
+## ⚙ Requirements
 
 - Browser
 - Sublime Text Build 4113
 
-## Features
+## 💡 Features
 
 - Responsives all devices
 
-## Directory Structure
+## 📂 Directory Structure
 
 ```
 📦simple-portfolio-website
  ┣ 📂assets
  ┃ ┣ 📂images
- ┃ ┃ ┣ 📜adobe-illustrator.svg
- ┃ ┃ ┣ 📜anforcom-feed.png
- ┃ ┃ ┣ 📜css.svg
- ┃ ┃ ┣ 📜D5391C07.png
- ┃ ┃ ┣ 📜favicon-khoeru.svg
- ┃ ┃ ┣ 📜figma.svg
- ┃ ┃ ┣ 📜HMTL-Web.png
- ┃ ┃ ┣ 📜html.svg
- ┃ ┃ ┣ 📜instagram.svg
- ┃ ┃ ┣ 📜javascript.svg
- ┃ ┃ ┣ 📜jumbotron-khoeru.svg
- ┃ ┃ ┣ 📜jumbotron-khoeru-creative.svg
- ┃ ┃ ┣ 📜linkedin.svg
- ┃ ┃ ┣ 📜logo-foot-khoeru.svg
- ┃ ┃ ┣ 📜logo-nav-khoeru.svg
- ┃ ┃ ┣ 📜menu-icon.svg
- ┃ ┃ ┣ 📜PPPC.png
- ┃ ┃ ┣ 📜whatsapp.svg
- ┃ ┃ ┣ 📜wht-facebook.svg
- ┃ ┃ ┣ 📜wht-instagram.svg
- ┃ ┃ ┣ 📜wht-linkedin.svg
- ┃ ┃ ┣ 📜wht-whatsapp.svg
- ┃ ┃ ┗ 📜winner-video.png
- ┃ ┣ 📂styles
- ┃ ┃ ┣ 📂img
- ┃ ┃ ┃ ┣ 📜DC6271D0.png
- ┃ ┃ ┃ ┗ 📜khoeru-bio.svg
- ┃ ┃ ┗ 📜style.css
- ┃ ┗ 📜main.js
+ ┃ ┃ ┣ 📜svg (18)
+ ┃ ┃ ┗ 📜png (5)
+ ┃ ┣ 📂scripts
+ ┃ ┃ ┗ 📜main.jd
+ ┃ ┗ 📂styles
+ ┃   ┣ 📂img
+ ┃   ┃ ┣ 📜png (1)
+ ┃   ┃ ┗ 📜svg (1)
+ ┃   ┗ 📜style.css
  ┗ 📜index.html
 ```
 
-# Usage
+# 👍 Usage
 
 1. Letakan folder **simple-portfolio-website** ke dalam direktori anda (Windows).
 2. Jalankan / buka file index.html di browser.
 
-## Screenshots
-
-- Dekstop
-![Dekstop Screenshot](https://github.com/roziqinkhoeru/simple-portfolio-website/blob/bf00c73cced3345500f982abf890339ea17a877d/Dekstop-view-Simple%20Portfolio.png)
-
-- Mobile
-
-## Authors
+## 👱‍♂️ Authors
 
 - Khoeru Roziqin [28/07/2021]
 
-## Contact and Social Media
+## ✉ Contact and Social Media
+
 - ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) [roziqinkhoeru](https://github.com/roziqinkhoeru)
 - ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Khoeru Roziqin](https://www.linkedin.com/in/roziqinkhoeru)
 - ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) [@khroz_studio](https://www.instagram.com/khroz_studio/)
