@@ -539,52 +539,6 @@ footer {
   /*****************/
   /*    header     */
   /*****************/
-  /*navigations*/
-  nav {
-    height: 70px;
-  }
-
-  .nav__image img {
-    height: 20px;
-  }
-
-  .nav__toggle {
-    display: block;
-  }
-
-  .nav__menu {
-    position: fixed;
-    top: 0;
-    left: -100%;
-
-    width: 60%;
-    height: 100%;
-
-    transition: all 0.8s ease-in-out;
-
-    background-color: white;
-  }
-
-  .nav__list {
-    display: flex;
-    flex-direction: column;
-
-    padding: 30px 0;
-  }
-
-  .nav__item {
-    margin: 0.75rem 1.25rem;
-    display: flex;
-  }
-
-  .nav__link {
-    padding: 0;
-  }
-
-  .nav__link:hover::after {
-    width: 100%;
-  }
-
   /*jumbotron*/
   .jumbotron {
     height: 900px;
@@ -674,7 +628,8 @@ footer {
   /*******************/
   .container,
   .nav__container {
-    max-width: 540px;
+    max-width: 90%;
+    margin: 0 auto;
   }
 
   /**********************/
@@ -695,6 +650,57 @@ footer {
 
   aside {
     max-width: 400px;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  /*****************/
+  /*    header     */
+  /*****************/
+  /*navigations*/
+  nav {
+    height: 70px;
+  }
+
+  .nav__image img {
+    height: 20px;
+  }
+
+  .nav__toggle {
+    display: block;
+  }
+
+  .nav__menu {
+    position: fixed;
+    top: 0;
+    left: -100%;
+
+    width: 60%;
+    height: 100%;
+
+    transition: all 0.8s ease-in-out;
+
+    background-color: white;
+  }
+
+  .nav__list {
+    display: flex;
+    flex-direction: column;
+
+    padding: 30px 0;
+  }
+
+  .nav__item {
+    margin: 0.75rem 1.25rem;
+    display: flex;
+  }
+
+  .nav__link {
+    padding: 0;
+  }
+
+  .nav__link:hover::after {
+    width: 100%;
   }
 }
 
