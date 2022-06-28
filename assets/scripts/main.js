@@ -21,6 +21,8 @@ const navLink = document.querySelectorAll(".nav__link");
 function linkActive() {
   navLink.forEach((n) => n.classList.remove("active"));
   this.classList.add("active");
+  navBar.classList.remove("show__left");
+  navScreen.classList.remove("show__block");
 }
 
 navLink.forEach((n) => n.addEventListener("click", linkActive));
