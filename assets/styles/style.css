@@ -362,10 +362,11 @@ table td {
 
   cursor: pointer;
   transition: all 0.6s ease;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
 }
 
 .project__article:hover {
-  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.2);
 }
 
 .project__article h3 {
