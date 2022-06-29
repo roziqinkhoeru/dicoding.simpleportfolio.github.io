@@ -65,6 +65,6 @@ This program was created using **HTML (Hypertext Markup Language)**, **CSS (Casc
 
 - [Khoeru Roziqin](https://github.com/roziqinkhoeru)
 
-## ✉ Feedback
+## ✉ Review
 
-If you have any feedback, please reach out to us at **roziqinkhoeru8@mail.com**
+![dicoding-review-khoeru-roziqin-submission]()
