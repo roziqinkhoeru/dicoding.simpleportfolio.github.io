@@ -28,34 +28,6 @@ This program was created using **HTML (Hypertext Markup Language)**, **CSS (Casc
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat&logo=sublime-text&logoColor=important)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
-## ⚙ Requirements
-
-- Browser
-- Internet
-- Sublime Text Build 4113 / Visual Studio Code
-
-## 💡 Features
-
-- Responsives all devices
-
-## 📂 Directory Structure
-
-```
-📦simple-portfolio-website
- ┣ 📂assets
- ┃ ┣ 📂images
- ┃ ┃ ┣ 📜svg (18)
- ┃ ┃ ┗ 📜png (5)
- ┃ ┣ 📂scripts
- ┃ ┃ ┗ 📜main.jd
- ┃ ┗ 📂styles
- ┃   ┣ 📂img
- ┃   ┃ ┣ 📜png (1)
- ┃   ┃ ┗ 📜svg (1)
- ┃   ┗ 📜style.css
- ┗ 📜index.html
-```
-
 # 👍 Usage
 
 1. Letakan folder **simple-portfolio-website** ke dalam direktori anda (Windows).
