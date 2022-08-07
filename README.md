@@ -39,4 +39,4 @@ This program was created using **HTML (Hypertext Markup Language)**, **CSS (Casc
 
 ## ✉ Review
 
-![dicoding-review-khoeru-roziqin-submission](https://raw.githubusercontent.com/roziqinkhoeru/simple-portfolio-website/main/review.png)
+![dicoding-review-khoeru-roziqin-submission]()
